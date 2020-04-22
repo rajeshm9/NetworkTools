@@ -13,3 +13,8 @@ https://ncli.herokuapp.com/index.php
 
 Pls share your suggestion for addition of new Tools -> rajeshmahajan09@gmail.com
 
+Yet to integrate:
+1. ipcalc
+2. Base64 decode and encode
+
+
